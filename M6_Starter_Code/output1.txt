@@ -1,0 +1,683 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "web_url": "https://www.nytimes.com/2023/05/25/movies/the-attachment-diaries-review.html",
+                "snippet": "A gynecologist and her patient form a horrifyingly twisted connection in this batty, bloody Argentine melodrama.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018The Attachment Diaries\u2019 Review: Love, Sick",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "The Attachment Diaries",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "The Attachment Diaries (Movie)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Diment, Valentin Javier",
+                        "rank": 3,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-05-25T11:00:03+0000",
+                "byline": {
+                    "original": "By Jeannette Catsoulis",
+                    "person": [
+                        {
+                            "firstname": "Jeannette",
+                            "middlename": null,
+                            "lastname": "Catsoulis",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 295
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/05/04/movies/whats-love-got-to-do-with-it-review.html",
+                "snippet": "Two childhood friends navigate cultural differences in this pleasantly uncontentious romantic comedy.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "Review: \u2018What\u2019s Love Got to Do With It?\u2019 Probably a Lot",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "What\u2019s Love Got to Do With It?",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Kapur, Shekhar",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "James, Lily",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Azmi, Shabana",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Thompson, Emma",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-05-04T17:16:45+0000",
+                "byline": {
+                    "original": "By Jeannette Catsoulis",
+                    "person": [
+                        {
+                            "firstname": "Jeannette",
+                            "middlename": null,
+                            "lastname": "Catsoulis",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 287
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/05/04/movies/you-can-live-forever-review.html",
+                "snippet": "Religion comes between two girls falling in love in the 1990s in this sweet coming-of-age film bathed in grunge hues.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018You Can Live Forever\u2019 Review: Do You Love Me Now?",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "You Can Live Forever",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "You Can Live Forever (Movie)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Slutsky, Mark",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Watts, Sarah (Film Director)",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "O'Driscoll, Anwen",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Laporte, June (Actor)",
+                        "rank": 6,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-05-04T11:00:08+0000",
+                "byline": {
+                    "original": "By Elisabeth Vincentelli",
+                    "person": [
+                        {
+                            "firstname": "Elisabeth",
+                            "middlename": null,
+                            "lastname": "Vincentelli",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 294
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/04/21/movies/a-tourists-guide-to-love-review.html",
+                "snippet": "Rachael Leigh Cook stars in this bland rom-com as a travel executive exploring Vietnam and getting over a breakup.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018A Tourist\u2019s Guide to Love\u2019 Review: A Wearyingly Familiar Trip",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "A Tourist\u2019s  Guide to Love",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "A Tourist's Guide to Love (Movie)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Tsuchida, Steven",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Cook, Rachael Leigh",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-04-21T07:03:25+0000",
+                "byline": {
+                    "original": "By Elisabeth Vincentelli",
+                    "person": [
+                        {
+                            "firstname": "Elisabeth",
+                            "middlename": null,
+                            "lastname": "Vincentelli",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 276
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/04/20/movies/other-peoples-children-review.html",
+                "snippet": "A radiant Virginie Efira stars as a Parisian teacher who blissfully falls for a man and his 4-year-old daughter, complicating everyone\u2019s lives.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018Other People\u2019s Children\u2019 Review: True Romance",
+                    "kicker": "Critic\u2019s pick",
+                    "content_kicker": null,
+                    "print_headline": "Intoxicating Love With a Sobering Turn",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Zlotowski, Rebecca",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "Other People's Children (Movie)",
+                        "rank": 3,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-04-20T15:35:13+0000",
+                "byline": {
+                    "original": "By Manohla Dargis",
+                    "person": [
+                        {
+                            "firstname": "Manohla",
+                            "middlename": null,
+                            "lastname": "Dargis",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 801
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/04/13/movies/one-true-loves-movie-review.html",
+                "snippet": "A film adaptation of Taylor Jenkins Reid\u2019s novel has potential for drama, but it stumbles on stock melodrama.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018One True Loves\u2019 Review: A Romance Lost at Sea",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "One True Loves",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Bracey, Luke (1989- )",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Liu, Simu",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Reid, Taylor Jenkins",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Soo, Phillipa",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Fickman, Andy",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "One True Loves (Movie)",
+                        "rank": 7,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-04-13T11:00:06+0000",
+                "byline": {
+                    "original": "By Brandon Yu",
+                    "person": [
+                        {
+                            "firstname": "Brandon",
+                            "middlename": null,
+                            "lastname": "Yu",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 320
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/04/13/movies/the-lost-weekend-a-love-story-review.html",
+                "snippet": "There\u2019s not much Lennon music heard in this doc about his affair with May Pang, and given how much Pang trashes his wife, Yoko Ono, it\u2019s no surprise it was withheld.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018The Lost Weekend: A Love Story\u2019 Review: When John Lennon Strayed",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "The Lost Weekend:  A Love Story",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Documentary Films and Programs",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "The Lost Weekend: A Love Story (Movie)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Pang, May",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Lennon, John",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Ono, Yoko",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Brandstein, Eve",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Kaufman, Richard S (Filmmaker)",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Samuels, Stuart (Filmmaker)",
+                        "rank": 8,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Content Type: Personal Profile",
+                        "rank": 9,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Pop and Rock Music",
+                        "rank": 10,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-04-13T11:00:03+0000",
+                "byline": {
+                    "original": "By Glenn Kenny",
+                    "person": [
+                        {
+                            "firstname": "Glenn",
+                            "middlename": null,
+                            "lastname": "Kenny",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 327
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/03/30/movies/a-thousand-and-one-review.html",
+                "snippet": "A mesmerizing Teyana Taylor stars in A.V. Rockwell\u2019s feature directing debut, about motherhood and survival in a fast-changing city.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018A Thousand and One\u2019 Review: A New York Love Story",
+                    "kicker": "Critic\u2019s Pick",
+                    "content_kicker": null,
+                    "print_headline": "An Unbending Will Meets a Shifting City",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "A Thousand and One (Movie)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Rockwell, AV (Film Director)",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Taylor, Teyana (1990- )",
+                        "rank": 4,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-03-30T18:53:42+0000",
+                "byline": {
+                    "original": "By Manohla Dargis",
+                    "person": [
+                        {
+                            "firstname": "Manohla",
+                            "middlename": null,
+                            "lastname": "Dargis",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 971
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/02/09/movies/your-place-or-mine-review.html",
+                "snippet": "This humdrum Netflix romantic comedy features Reese Witherspoon and Ashton Kutcher as longtime friends with possibly hidden feelings for each other.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018Your Place or Mine\u2019 Review: Try Neither",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "They Have a Humdrum Kind of Love",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Movies",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "Your Place or Mine (Movie)",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Witherspoon, Reese",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Kutcher, Ashton",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "McKenna, Aline Brosh",
+                        "rank": 5,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-02-10T00:00:05+0000",
+                "byline": {
+                    "original": "By Amy Nicholson",
+                    "person": [
+                        {
+                            "firstname": "Amy",
+                            "middlename": null,
+                            "lastname": "Nicholson",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 569
+            },
+            {
+                "web_url": "https://www.nytimes.com/2023/02/02/movies/love-in-the-time-of-fentanyl-review.html",
+                "snippet": "To combat the overdose crisis, a group that includes former and current users open a safe consumption site where shooting up does not have to mean death.",
+                "source": "The New York Times",
+                "headline": {
+                    "main": "\u2018Love in the Time of Fentanyl\u2019 Review: Heartbreak, Death and Hope in Vancouver",
+                    "kicker": null,
+                    "content_kicker": null,
+                    "print_headline": "Love in the Time Of Fentanyl",
+                    "name": null,
+                    "seo": null,
+                    "sub": null
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "value": "Documentary Films and Programs",
+                        "rank": 1,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Fentanyl",
+                        "rank": 2,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Drug Abuse and Traffic",
+                        "rank": 3,
+                        "major": "N"
+                    },
+                    {
+                        "name": "subject",
+                        "value": "Volunteers and Community Service",
+                        "rank": 4,
+                        "major": "N"
+                    },
+                    {
+                        "name": "creative_works",
+                        "value": "Love in the Time of Fentanyl (Movie)",
+                        "rank": 5,
+                        "major": "N"
+                    },
+                    {
+                        "name": "persons",
+                        "value": "Askey, Colin",
+                        "rank": 6,
+                        "major": "N"
+                    },
+                    {
+                        "name": "glocations",
+                        "value": "Vancouver (British Columbia)",
+                        "rank": 7,
+                        "major": "N"
+                    },
+                    {
+                        "name": "organizations",
+                        "value": "Overdose Prevention Society",
+                        "rank": 8,
+                        "major": "N"
+                    }
+                ],
+                "pub_date": "2023-02-02T12:00:11+0000",
+                "byline": {
+                    "original": "By Concepci\u00f3n de Le\u00f3n",
+                    "person": [
+                        {
+                            "firstname": "Concepci\u00f3n",
+                            "middlename": null,
+                            "lastname": "de Le\u00f3n",
+                            "qualifier": null,
+                            "title": null,
+                            "role": "reported",
+                            "organization": "",
+                            "rank": 1
+                        }
+                    ],
+                    "organization": null
+                },
+                "word_count": 306
+            }
+        ],
+        "meta": {
+            "hits": 344,
+            "offset": 0,
+            "time": 18
+        }
+    }
+}
